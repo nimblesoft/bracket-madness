@@ -6,7 +6,7 @@
 $database = "bracket";
 $dbuser = "QsWiPpyheWBVzrpe";
 $pass = "sLrraE7MCtpXDJfn";
-$host = "bracket-eurjq-mysql.bracket-eurjq.svc.cluster.local:30112";
+$host = "bracket-eurjq-mysql.bracket-eurjq.svc.cluster.local:3306";
 /*
  * Add a full URL to your site install, like:
  * $tourneyURL = "http://tourney.example.com/";
