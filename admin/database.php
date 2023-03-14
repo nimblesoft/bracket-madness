@@ -3,16 +3,16 @@
 /*
  * Add your DB config here!
  */
-$database = "ncaa";
-$dbuser = "username";
-$pass = "pw";
-$host = "localhost";
+$database = "bracket";
+$dbuser = "QsWiPpyheWBVzrpe";
+$pass = "sLrraE7MCtpXDJfn";
+$host = "bracket-eurjq-mysql.bracket-eurjq.svc.cluster.local";
 /*
  * Add a full URL to your site install, like:
  * $tourneyURL = "http://tourney.example.com/";
  * $tourneyURL = "http://example.com/tourney/";
 */
-$tourneyURL = "";
+$tourneyURL = "https://bracket-madness-fbz1z.kinsta.app/";
 
 /*
  * How many places do you want to have payout for in the final calculations?
